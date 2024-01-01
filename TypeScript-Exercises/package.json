@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "These are practice exercises for learning TypeScript.",
+  "main": "Exercises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theusmanyousaf/TypeScript-Exercises.git"
+  },
+  "author": "Usman-Yousaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theusmanyousaf/TypeScript-Exercises/issues"
+  },
+  "homepage": "https://github.com/theusmanyousaf/TypeScript-Exercises#readme"
+}
